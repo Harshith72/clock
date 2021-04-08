@@ -37,14 +37,14 @@ function draw() {
   rotate(hrAngle);
   stroke(150,255,100);
   strokeWeight(7);
-  line(0,0,100,0);
+  line(0,0,80,0);
   pop();
 
    push();
   rotate(mnAngle);
   stroke(0,10,255);
   strokeWeight(7);
-  line(0,0,100,0);
+  line(0,0,95,0);
   pop();
 
   push();
